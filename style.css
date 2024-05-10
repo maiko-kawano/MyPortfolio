@@ -97,6 +97,10 @@ main h1 {
   padding-top: 20px;
 }
 
+.program a {
+  display: block;
+}
+
 .score {
   padding-top: 50px;
 }
