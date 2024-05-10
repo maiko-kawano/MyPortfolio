@@ -99,6 +99,7 @@ main h1 {
 
 .program a {
   display: block;
+  color: orange;
 }
 
 .score {
