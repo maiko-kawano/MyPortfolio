@@ -113,7 +113,7 @@ main h1 {
 }
 
 .contents {
-  display: flex;
+/*   display: flex; */
   justify-content: center;
 }
 
@@ -122,7 +122,7 @@ main h1 {
 }
 
 .contents a {
-/*   display: block; */
+  display: block;
   color: orange;
   padding: 20px 0;
   font-size: 30px;
