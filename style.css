@@ -80,6 +80,10 @@ main h1 {
   padding-top: 100px;
 }
 
+#about, #sites, #others {
+  background-color: #FFFAF5;
+}
+
 .matching-game a, .score a, overtime-app a {
   display: block;
   color: orange;
