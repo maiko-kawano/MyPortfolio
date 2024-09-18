@@ -80,6 +80,10 @@ main h1 {
   padding-top: 100px;
 }
 
+#about, #profile, #original, #proguram, #others, #contact {
+  padding-bottom: 40px;
+}
+
 #about, #original, #others {
   background-color: #FFFAF5;
 }
