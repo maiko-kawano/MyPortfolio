@@ -80,20 +80,20 @@ main h1 {
   padding-top: 100px;
 }
 
-.matching-game a, .score a {
+.matching-game a, .score a, overtime-app a {
   display: block;
   color: orange;
   padding: 20px 0;
   font-size: 30px;
 }
 
-.matching-game img, .score img {
+.matching-game img, .score img, overtime-app img {
   display: block;
   margin: auto;
   width: 60%;
 }
 
-.matching-game h5, .score h5 {
+.matching-game h5, .score h5, overtime-app h5 {
   padding-top: 20px;
 }
 
@@ -103,7 +103,7 @@ main h1 {
   font-size: 30px;
 }
 
-.score {
+.score, overtime-app {
   padding-top: 50px;
 }
 
