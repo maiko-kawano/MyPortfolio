@@ -88,6 +88,10 @@ main h1 {
   background-color: #FFFAF5;
 }
 
+.techcamp {
+  text-align: left;
+}
+
 .matching-game a, .score a, .overtime-app a {
   display: block;
   color: orange;
