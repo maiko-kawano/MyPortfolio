@@ -88,9 +88,13 @@ main h1 {
   background-color: #FFFAF5;
 }
 
+.techcamp {
+  width: 50%;
+  margin: 0 auto;
+}
+
 .techcamp p {
   text-align: left;
-  margin: 0 auto;
 }
 
 .matching-game a, .score a, .overtime-app a {
